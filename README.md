@@ -1,17 +1,17 @@
 # tongers
-
+<br><br>
 tools grentongers gunakan dngan bijak
-
-trmux-setup-storage
-pkg update && pkg upgrade
-pkg install python
-pkg install python2 
-pip install --upgrade pip
-pip install requests
-pip install bs4
-git clone
-cd tongers
-sh setup.sh (install all tools)
-sh tongers.sh
+<br><br>
+trmux-setup-storage<br>
+pkg update && pkg upgrade<br>
+pkg install python<br>
+pkg install python2 <br>
+pip install --upgrade pip<br>
+pip install requests<br>
+pip install bs4<br>
+git clone https://github.com/BLACheat78/tongers.git<br>
+cd tongers<br>
+sh setup.sh (install all tools)<br>
+sh tongers.sh<br>
 
 
